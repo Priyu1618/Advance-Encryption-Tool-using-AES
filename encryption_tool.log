@@ -1,0 +1,12 @@
+2025-05-11 08:26:35,678 - INFO - AUDIT: 2fa_setup by anonymous - Two-factor authentication was set up
+2025-05-11 08:29:22,475 - INFO - AUDIT: 2fa_setup by anonymous - Two-factor authentication was set up
+2025-05-11 08:29:45,493 - INFO - AUDIT: login by Ishika Lovewanshi - User Ishika Lovewanshi logged in
+2025-05-11 08:31:10,432 - INFO - AUDIT: setup_self_destruct by Ishika Lovewanshi - Set up self-destruct for Minor project 2.enc at 2025-05-11T20:31:10.432653
+2025-05-11 08:31:10,432 - INFO - AUDIT: encrypt_file by Ishika Lovewanshi - Encrypted file What is Cloud.pdf
+2025-05-11 08:32:58,467 - INFO - AUDIT: decrypt_file by Ishika Lovewanshi - Decrypted file Minor project 2.enc
+2025-05-11 08:35:59,924 - INFO - AUDIT: hide_data by Ishika Lovewanshi - Hid file 3 rd sem result.jpg in image ISHIKA (DBMS).png
+2025-05-11 08:36:55,366 - INFO - AUDIT: steganography_error by Ishika Lovewanshi - Error in steganography: too many values to unpack (expected 3)
+2025-05-11 08:37:10,519 - INFO - AUDIT: steganography_error by Ishika Lovewanshi - Error in steganography: too many values to unpack (expected 3)
+2025-05-11 08:38:13,310 - INFO - AUDIT: save_settings by Ishika Lovewanshi - Updated application settings
+2025-05-11 08:38:41,805 - INFO - AUDIT: share_error by Ishika Lovewanshi - Error sharing file: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b2453f50e89sm3057596a12.51 - gsmtp')
+2025-05-11 08:42:27,125 - INFO - AUDIT: share_error by Ishika Lovewanshi - Error sharing file: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22fc82a1958sm39403665ad.229 - gsmtp')

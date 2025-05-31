@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-05-11T08:26:35.677601",
+    "user": "anonymous",
+    "action": "2fa_setup",
+    "details": "Two-factor authentication was set up"
+  },
+  {
+    "timestamp": "2025-05-11T08:29:22.473186",
+    "user": "anonymous",
+    "action": "2fa_setup",
+    "details": "Two-factor authentication was set up"
+  },
+  {
+    "timestamp": "2025-05-11T08:29:45.491689",
+    "user": "Ishika Lovewanshi",
+    "action": "login",
+    "details": "User Ishika Lovewanshi logged in"
+  },
+  {
+    "timestamp": "2025-05-11T08:31:10.432653",
+    "user": "Ishika Lovewanshi",
+    "action": "setup_self_destruct",
+    "details": "Set up self-destruct for Minor project 2.enc at 2025-05-11T20:31:10.432653"
+  },
+  {
+    "timestamp": "2025-05-11T08:31:10.432653",
+    "user": "Ishika Lovewanshi",
+    "action": "encrypt_file",
+    "details": "Encrypted file What is Cloud.pdf"
+  },
+  {
+    "timestamp": "2025-05-11T08:32:58.467154",
+    "user": "Ishika Lovewanshi",
+    "action": "decrypt_file",
+    "details": "Decrypted file Minor project 2.enc"
+  },
+  {
+    "timestamp": "2025-05-11T08:35:59.924548",
+    "user": "Ishika Lovewanshi",
+    "action": "hide_data",
+    "details": "Hid file 3 rd sem result.jpg in image ISHIKA (DBMS).png"
+  },
+  {
+    "timestamp": "2025-05-11T08:36:55.366052",
+    "user": "Ishika Lovewanshi",
+    "action": "steganography_error",
+    "details": "Error in steganography: too many values to unpack (expected 3)"
+  },
+  {
+    "timestamp": "2025-05-11T08:37:10.517079",
+    "user": "Ishika Lovewanshi",
+    "action": "steganography_error",
+    "details": "Error in steganography: too many values to unpack (expected 3)"
+  },
+  {
+    "timestamp": "2025-05-11T08:38:13.308975",
+    "user": "Ishika Lovewanshi",
+    "action": "save_settings",
+    "details": "Updated application settings"
+  },
+  {
+    "timestamp": "2025-05-11T08:38:41.803065",
+    "user": "Ishika Lovewanshi",
+    "action": "share_error",
+    "details": "Error sharing file: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b2453f50e89sm3057596a12.51 - gsmtp')"
+  },
+  {
+    "timestamp": "2025-05-11T08:42:27.123721",
+    "user": "Ishika Lovewanshi",
+    "action": "share_error",
+    "details": "Error sharing file: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22fc82a1958sm39403665ad.229 - gsmtp')"
+  }
+]
